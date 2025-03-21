@@ -24,3 +24,4 @@ DESCRIPTION: **TASK 3**: MULTI-CLOUD-ARCHITECTURE
 
 5️. Monitoring & Failover – Cross-cloud monitoring tools (CloudWatch, GCP Operations Suite) track performance, while automated failover ensures business continuity.
 
+[INTERNSHIP  TASK -3  MULTI-CLOUD  ARCHITECTURE.docx](https://github.com/user-attachments/files/19388321/INTERNSHIP.TASK.-3.MULTI-CLOUD.ARCHITECTURE.docx)
